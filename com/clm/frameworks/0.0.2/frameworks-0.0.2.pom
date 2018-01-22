@@ -196,5 +196,11 @@
       <version>LATEST</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>AssessorClient</groupId>
+      <artifactId>camera-release</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
