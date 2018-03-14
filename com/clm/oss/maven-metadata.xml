@@ -3,13 +3,14 @@
   <groupId>com.clm</groupId>
   <artifactId>oss</artifactId>
   <versioning>
-    <release>0.0.4</release>
+    <release>0.0.5</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
       <version>0.0.4</version>
+      <version>0.0.5</version>
     </versions>
-    <lastUpdated>20180129062841</lastUpdated>
+    <lastUpdated>20180314014600</lastUpdated>
   </versioning>
 </metadata>
