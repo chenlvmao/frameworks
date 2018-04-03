@@ -3,7 +3,7 @@
   <groupId>com.clm</groupId>
   <artifactId>gallery</artifactId>
   <versioning>
-    <release>0.0.9</release>
+    <release>0.1.0</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -14,7 +14,8 @@
       <version>0.0.7</version>
       <version>0.0.8</version>
       <version>0.0.9</version>
+      <version>0.1.0</version>
     </versions>
-    <lastUpdated>20180327034855</lastUpdated>
+    <lastUpdated>20180403010614</lastUpdated>
   </versioning>
 </metadata>
